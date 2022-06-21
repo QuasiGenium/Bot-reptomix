@@ -1,0 +1,6 @@
+python-telegram-bot
+sqlalchemy
+flask-restful
+flask
+beautifulsoup4
+requests

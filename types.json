@@ -1,0 +1,11 @@
+{
+    "type": {
+        "Змеи": "/catalog/zhivotnye/zmei/",
+        "Ящерицы": "/catalog/zhivotnye/yashcheritsy/"
+    },
+    "subtype": {
+        "Другие питоны и удавы": "/catalog/zhivotnye/zmei/drugie_pitony_i_udavy/",
+        "Королевские питоны": "/catalog/zhivotnye/zmei/korolevskie_pitony/",
+        "Императорские удавы": "/catalog/zhivotnye/zmei/nastoyashchie_udavy/"
+    }
+}
